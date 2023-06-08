@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e18-co326-Smart-Home-Security-System
+title: Smart Home Security System
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Home Security System
 
 ---
 
@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/010, Name, [email](mailto:e18010@eng.pdn.ac.lk)
+-  E/18/149, Name, [email](mailto:e18149@eng.pdn.ac.lk)
+-  E/18/156, Name, [email](mailto:e18156@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,7 +32,17 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+Smart Security System aims to create a robust and reliable security system for
+residences, businesses, and other sites by utilizing the most recent developments in IIoT
+technology.
+
+This will allow users to automate the process of maintaining the security of the
+premises by sending out alarms and warnings, as well as allowing the system handler overall
+control of the system via a mobile application.
+By integrating a number of sensors and modules to offer complete security features
+while giving highly beneficial and practical solutions for enhancing security measures and
+ensuring the safety of premises and individuals.
+
 
 ## Other Sub Topics
 
