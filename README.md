@@ -1,7 +1,15 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Smart Home Security System
 ___
 
-## Please refer the instructions in below URL:
+## Introduction:
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+Smart Security System aims to create a robust and reliable security system for
+residences, businesses, and other sites by utilizing the most recent developments in IIoT
+technology.
+This will allow users to automate the process of maintaining the security of the
+premises by sending out alarms and warnings, as well as allowing the system handler overall
+control of the system via a mobile application.
+By integrating a number of sensors and modules to offer complete security features
+while giving highly beneficial and practical solutions for enhancing security measures and
+ensuring the safety of premises and individuals.
