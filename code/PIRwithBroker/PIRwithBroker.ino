@@ -3,7 +3,7 @@
 
 // MQTT Broker Settings
 const char* mqtt_server = "192.168.91.94";
-const char* mqtt_topic = "test/topic";
+const char* mqtt_topic = "UoP_CO_326_E18_04_PIRSensor";
 const int mqtt_port = 1883;
 
 // Wi-Fi Settings
